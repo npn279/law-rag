@@ -1,0 +1,12 @@
+langchain
+openpyxl
+elasticsearch
+python-dotenv
+datasets
+openai
+tiktoken
+sentence-transformers
+google-generativeai
+llama-index
+llama-index-vector-stores-elasticsearch
+streamlit
